@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: m
 header-img: img/home-bg.png
 email: meryltestflatiron@gmail.com
 copyright_name: meryltestflatiron
 description: > # this means to ignore newlines until "baseurl:"
-  
+  m
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  meryltestflatiron
